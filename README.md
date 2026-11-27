@@ -1,6 +1,6 @@
 # William Cardoso | Portfólio
 
-Estudante de Sistemas de Informação na FIAP (2025 a 2029) e estagiário de TI em Cyber Defense no Grupo Carrefour Brasil. Trabalho com automação, integração de sistemas e programação, e tenho interesse em inteligência artificial.
+ Estudante de Sistemas de Informação na FIAP (2025 a 2029) e estagiário de TI em Cyber Defense no Grupo Carrefour Brasil. Trabalho com    automação, integração de sistemas e programação, e tenho interesse em inteligência artificial.
 
 Inglês nível C2 (EF SET, 78/100) e dupla cidadania, portuguesa e britânica.
 
